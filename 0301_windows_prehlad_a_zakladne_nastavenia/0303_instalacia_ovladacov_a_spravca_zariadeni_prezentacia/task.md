@@ -44,5 +44,5 @@ Verzia môjho ovládača je 15.201.1151.1008, keďže neviem presne najnovšiu m
 
 
 Áno vidím tie isté zariadenia ako v devmgmt.msc<br>
-Nemám prístup k správcovi diskov.<br>
+Nemám prístup k správe diskov.<br>
 devmgmt je len správca zariadení, compmgmt je viac admin nástrojov a je to celkovo komplexnejšie ako devmgmt
