@@ -18,3 +18,5 @@ ______________________________________________________
 | Počet partícií na Disku 0    | 3                    |
 | Súborový systém na C:        | NTFS                 |
 | Voľné miesto na C:           | 403,72 GB (87 %)     |
+
+.
